@@ -1,0 +1,32 @@
+{
+	"name": "bootstrap-only-sass",
+	"version": "3.4.5",
+	"description": "Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+	"homepage": "https://github.com/IberaSoft/bower-bootstrap-sass",
+	"author": {
+	    "name": ""
+	},
+	"moduleType": [
+		"globals"
+	],
+	"keywords": [
+        "twitter",
+        "bootstrap",
+        "twitter-bootstrap",
+        "sass",
+        "scss"
+	],
+	"main": [
+		"scss/stylesheets/_bootstrap.scss"
+	],
+	"license": "MIT",
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/IberaSoft/bower-bootstrap-sass.git"
+	}
+	"ignore": [
+		"**/*.txt"
+	],
+	"dependencies": {  },
+	"devDependencies": {  }
+}
