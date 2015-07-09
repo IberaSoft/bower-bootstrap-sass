@@ -16,7 +16,6 @@
         "type": "git",
         "url": "https://github.com/IberaSoft/bower-bootstrap-sass.git"
     },
-    "ignore": "**/*.txt",
     "dependencies": {},
     "devDependencies": {}
 }
